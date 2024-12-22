@@ -103,11 +103,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Crypto Analysis Tool",
+    title: "Crypto - Analysis Tool",
     des: "A comprehensive tool for analyzing cryptocurrency trends and data, featuring advanced visualizations and real-time updates.",
     img: "",
     iconLists: ["/next.svg", "/tail.svg"],
-    link: "https://github.com/YogeshMahajanGit/CryptoWord",
+    link: "https://crypto-word-five.vercel.app/",
   },
 ];
 
